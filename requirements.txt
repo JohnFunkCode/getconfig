@@ -1,0 +1,4 @@
+requests
+yaml=0.1.7
+pillow=5.2
+exifread
